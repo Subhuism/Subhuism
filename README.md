@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Building+for+the+Web;Always+Shipping+🚀&center=true&width=500&height=45&color=00C4CC&vCenter=true&size=22" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Subhuism&style=flat-square&color=blueviolet" alt="profile views" />
-
 </div>
 
 ---
@@ -77,18 +75,6 @@
 ![](https://streak-stats.demolab.com/?user=Subhuism&theme=prussian&hide_border=false)
 
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Subhuism&theme=algolia&no-frame=true&row=1&column=7)
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
