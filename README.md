@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C4CC&height=100&section=header&text=Hi%20There,%20I'm%20Subhu%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C4CC&height=200&section=header&text=Hi%20There,%20I'm%20Subhu%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <a href="https://github.com/Subhuism">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=00C4CC&center=true&vCenter=true&width=600&height=70&lines=Full+Stack+Developer;Building+for+the+Web;Always+Shipping;Open+to+CollaborateD" />
@@ -97,8 +97,6 @@
 
 <br/>
 
-<br/>
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -106,8 +104,6 @@
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Subhuism&theme=tokyo-night&hide_border=true)
 
 </div>
-
-<br/>
 
 ### ✍️ Random Dev Quote
 
