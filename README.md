@@ -3,8 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C4CC&height=200&section=header&text=Hi%20There,%20I'm%20Subhu%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <a href="https://github.com/Subhuism">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Building+for+the+Web;Always+Shipping+🚀&center=true&width=500&height=45&color=00C4CC&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=00C4CC&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer+%F0%9F%92%BB;Building+for+the+Web+%F0%9F%8C%90;Always+Shipping+%F0%9F%9A%80;Open+to+Collaborate+%F0%9F%A4%9D" />
 </a>
+
+<img src="https://komarev.com/ghpvc/?username=Subhuism&style=flat-square&color=blueviolet" alt="profile views" />
 
 </div>
 
@@ -27,6 +29,7 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:upadhyaylogical@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Subhu.was.taken)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Subhuism-bk3ti)
+[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?logo=telegram&logoColor=white)](https://t.me/your_telegram_username)
 
 </div>
 
@@ -85,12 +88,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=Subhuism&theme=prussian&hide_border=false&include_all_commits=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Subhuism&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="49%" />
+<img src="https://github-readme-stats.shion.dev/api?username=Subhuism&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Subhuism&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="49%" />
 
 <br/>
 
-![](https://streak-stats.demolab.com/?user=Subhuism&theme=prussian&hide_border=false)
+![](https://streak-stats.demolab.com/?user=Subhuism&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -100,7 +103,7 @@
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Subhuism&theme=algolia&no-frame=true&row=1&column=7)
+![](https://github-profile-trophy.vercel.app/?username=Subhuism&theme=tokyonight&no-frame=true&row=1&column=7)
 
 </div>
 
@@ -110,7 +113,7 @@
 
 <div align="center">
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Subhuism&theme=react-dark&hide_border=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Subhuism&theme=tokyo-night&hide_border=true)
 
 </div>
 
