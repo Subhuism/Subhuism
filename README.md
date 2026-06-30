@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C4CC&height=200&section=header&text=Hi%20There,%20I'm%20Subhu%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C4CC&height=100&section=header&text=Hi%20There,%20I'm%20Subhu%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <a href="https://github.com/Subhuism">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=00C4CC&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer+%F0%9F%92%BB;Building+for+the+Web+%F0%9F%8C%90;Always+Shipping+%F0%9F%9A%80;Open+to+Collaborate+%F0%9F%A4%9D" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=00C4CC&center=true&vCenter=true&width=600&height=70&lines=Full+Stack+Developer+%F0%9F%92%BB;Building+for+the+Web+%F0%9F%8C%90;Always+Shipping+%F0%9F%9A%80;Open+to+Collaborate+%F0%9F%A4%9D" />
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=Subhuism&style=flat-square&color=blueviolet" alt="profile views" />
 
 </div>
 
@@ -99,14 +97,6 @@
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Subhuism&theme=tokyonight&no-frame=true&row=1&column=7)
-
-</div>
-
 <br/>
 
 ## 📈 Contribution Graph
@@ -126,8 +116,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
-
-<br/>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4CC,100:0077B5&height=100&section=footer" />
